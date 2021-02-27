@@ -25,8 +25,8 @@
 #include "soc/soc.h" //disable brownout problems
 #include "soc/rtc_cntl_reg.h"  //disable brownout problems
 
-const char* ssid = "VODAFONE_1540";
-const char* password = "159ad157OK20coal";
+const char* ssid = "";
+const char* password = "";
 
 AsyncWebServer server(80);
 
