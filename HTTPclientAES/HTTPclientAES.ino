@@ -6,8 +6,8 @@
 #include "esp_http_server.h"
 
 
-const char* ssid = "VODAFONE_1540";
-const char* password = "159ad157OK20coal";
+const char* ssid = "";
+const char* password = "";
 
 
 #define INPUT_BUFFER_LIMIT (128 + 1)
